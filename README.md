@@ -25,7 +25,7 @@
 	
 	- Vai no seu navegador e cola o link
 ``` 
-	http://localhost:8080/index.html
+	http://localhost:8080/index
 ``` 
 
 4. Banco de dados MYSQL
