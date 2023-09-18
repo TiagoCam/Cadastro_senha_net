@@ -1,0 +1,10 @@
+br\com\cadastros\model\entity\Cadastro$CadastroBuilder.class
+br\com\cadastros\rest\exception\ApiErrors.class
+br\com\cadastros\config\InternacionalizacaoConfig.class
+br\com\cadastros\rest\CadastroController.class
+br\com\cadastros\model\entity\Cadastro.class
+br\com\cadastros\rest\exception\CadastroCadastradoException.class
+br\com\cadastros\rest\ApplicattionControllerAdvice.class
+br\com\cadastros\service\CadastroService.class
+br\com\cadastros\CadastrosAplication.class
+br\com\cadastros\model\repository\CadastroRepository.class
