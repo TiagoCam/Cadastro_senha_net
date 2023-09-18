@@ -36,4 +36,5 @@
 	cadastro
 ```
 
-	Ou nome que queira, mais não esquece de mudar no application.properties.
+
+5. Ou nome que queira, mais não esquece de mudar no application.properties.
